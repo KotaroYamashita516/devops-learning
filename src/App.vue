@@ -173,6 +173,7 @@ onUnmounted(() => {
         <p class="hero__eyebrow">DevOps Learning Lab</p>
         <h1>CI/CD を学べる Vue 製シューティングゲーム教材</h1>
         <p class="hero__lead">
+          Hello!
           このリポジトリは、コードを少し直して、コミットして、PR
           を出して、GitHub Pages に公開されるまでを体験するための練習場です。
         </p>
